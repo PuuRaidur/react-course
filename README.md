@@ -2,6 +2,11 @@
 
 A simple todo app built with React, TypeScript, and Vite.
 
+## Links
+
+- [Youtube](https://youtu.be/hQAHSlTtcmY)
+- [Original Repo](https://github.com/WebDevSimplified/Learn-React-In-30-Minutes)
+
 ## Prerequisites
 
 - **Node.js** (v18 or later recommended)
